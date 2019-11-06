@@ -63,7 +63,7 @@
     "browserify": "^5.11.0",
     "dotenv": "^0.4.0",
     "envfile": "^1.0.0",
-    "espower-loader": "^0.7.1",
+    "espower-loader": "^0.11.0",
     "espowerify": "^0.7.1",
     "grunt": "^0.4.5",
     "grunt-browserify": "^3.0.1",
